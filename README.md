@@ -14,8 +14,7 @@ You need:
 ```
 
 ### Run it!
-You can follow the Django Girls tutorial here: [Django Girls Tutorial to test this code](http://tutorial.djangogirls.org/)
-And there's extra content here: [Django Girls Tutorial Extension code](https://github.com/DjangoGirls/tutorial-extensions/blob/master/homework/README.md)
+You can follow the Django Girls tutorial here: [Django Girls Tutorial to test this code](http://tutorial.djangogirls.org/), and there's extra content here: [Django Girls Tutorial Extension code](https://github.com/DjangoGirls/tutorial-extensions/blob/master/homework/README.md)
 
 ## Demo
 
